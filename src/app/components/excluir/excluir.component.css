@@ -1,0 +1,5 @@
+mat-card {
+    max-width: 400px; /* ajuste conforme necessário */
+    max-height: 300px;
+    overflow: none; /* Isso permite rolagem dentro do card sem afetar a página */
+  }
